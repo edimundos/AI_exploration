@@ -6,3 +6,4 @@ pyvenv.cfg
 *.png
 *.csv
 .env
+_*
