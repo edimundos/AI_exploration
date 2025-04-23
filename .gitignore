@@ -3,7 +3,6 @@ Lib
 Scripts
 share
 pyvenv.cfg
-exploitation_path.png
-exploration_results.png
-exploit_results.csv
-explore_results.csv
+*.png
+*.csv
+.env
