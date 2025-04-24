@@ -1,3 +1,4 @@
+# Eduards Žeiris and Jēkabs Čudars
 from config.Explorer import API2DExplorer
 
 def main():
