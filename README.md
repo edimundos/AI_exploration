@@ -1,6 +1,6 @@
 Made by Eduards Žeiris and Jēkabs Čudars
 
-﻿## Purpose
+## Purpose
 
 This document explains the code structure and functionality of the **AI Exploration** project. The project sends queries to a two-dimensional API to perform two tasks:
 
