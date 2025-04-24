@@ -2,8 +2,6 @@ Include
 Lib
 Scripts
 share
-pyvenv.cfg
-*.png
-*.csv
+pyvenv.cf
 .env
 _*
