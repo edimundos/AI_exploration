@@ -1,4 +1,5 @@
 Made by Eduards Žeiris and Jēkabs Čudars
+Results can be found in "Results" folder
 
 ## Purpose
 
