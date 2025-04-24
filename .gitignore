@@ -2,6 +2,6 @@ Include
 Lib
 Scripts
 share
-pyvenv.cf
+pyvenv.cfg
 .env
 _*
